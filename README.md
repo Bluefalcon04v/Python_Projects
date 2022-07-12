@@ -31,7 +31,8 @@ This repositorie contains the basic Stuffs and some basic Games. That includes
   >  > 
   >  > 6 + 4 = 10
   >  > 
-  >  > 10 + 5 = 15  
+  >  > 10 + 5 = 15 
+  >  > So Fibonacci numbers are 1, 3, 6, 10, 15
    
 - **Guessing computer random number**
   > In this game computer will generate a Random Number and the user have to find the number within the several given try. 
