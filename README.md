@@ -6,7 +6,7 @@ To make some Projects using Python programming language.
 ----
 
 ### Summary
-This repositorie contains the basic Stuffs. That includes 
+This repositorie contains the basic Stuffs and some basic Games. That includes 
 - **Hangman Game**
   - Hangman game main file
   - Words file
