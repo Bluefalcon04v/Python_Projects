@@ -41,7 +41,7 @@ This repositorie contains the basic Stuffs and some basic Games. That includes
 - **Typing game**
   > This game is for me to Improve my typing speed, i'm really slow at this most probably a bird will able to type faster than me 😥
   > 
-  > Anyways in this game computer will generate random case sensitive letters one by one and we have to try to score more and more with better accuracy. 
+  > Anyways in this game computer will generate random case sensitive letters one by one and we have to try to score more and more with better accuracy. Within the given time
 - **Stone, Paper, Scissor game**
   > Got bored by Playing Stone-Paper-Scissor with other humans? If that so i got your back Play it with your device with the help of my code. 
   > 
